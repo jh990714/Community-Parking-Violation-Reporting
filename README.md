@@ -15,22 +15,44 @@
 <br><br>
 
 ## 프로젝트 구현 결과
-  |회원가입|
 
+
+- 주정차 신고
+
+  https://github.com/jh990714/Community-Parking-Violation-Reporting/assets/144774186/e17a8827-ae89-485c-b1d4-d78f6984c9d4
+
+  <br>
+
+- 신고 반려
   
-  |로그인|
+  https://github.com/jh990714/Community-Parking-Violation-Reporting/assets/144774186/edba6dd4-6fdb-44c5-ab88-ca8eaae5a0d3
 
+  <br>
+
+- 게시물 보기/댓글
   
-  |신고하기|
-  
+  https://github.com/jh990714/Community-Parking-Violation-Reporting/assets/144774186/4423b687-a58a-4941-98ab-5ae686cd4c70
 
-  |신고차량 위치 확인|
-  
+  <br>
 
-  |게시물 보기|
+- 신고차량 위치 확인
 
+  https://github.com/jh990714/Community-Parking-Violation-Reporting/assets/144774186/43212685-410b-4db8-a014-8f3b63d69ed5
 
-  |댓글|
+  <br>
+
+- 알림
+  - 신고 요청 알림
+    
+    ![image](https://github.com/jh990714/Community-Parking-Violation-Reporting/assets/144774186/f6af6cda-4458-4ddb-ab5b-c9923c331a67)
+
+  - 차량 이동 요청
+    
+    ![image](https://github.com/jh990714/Community-Parking-Violation-Reporting/assets/144774186/6c3d98b7-af80-4da3-aea3-9fb44ecaafc6)
+
+  - 신고 반려
+    
+    ![image](https://github.com/jh990714/Community-Parking-Violation-Reporting/assets/144774186/e50cf5ba-a45b-4a31-a4bf-2d03bf230fed)
 
 <br><br>
 
@@ -46,3 +68,6 @@
 <br>
 
 ### ° 신고 유형 판단
+  - 실선
+  - 횡단보도
+  - 버스 정류소, 소화전
